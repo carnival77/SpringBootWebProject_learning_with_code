@@ -1,7 +1,5 @@
 package org.zerock.ex2.entity;
 
-import lombok.ToString;
-
 import javax.persistence.*;
 
 
